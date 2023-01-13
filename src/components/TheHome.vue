@@ -9,7 +9,7 @@
                 <th>Name</th>
                 <th>Address</th>
                 <th>Contact</th>
-                <th>Update List button</th>
+                <th>Update List</th>
             </tr>
             <tr v-for="item in restaurants" :key="item">
                 <td>{{ item.id }}</td>
