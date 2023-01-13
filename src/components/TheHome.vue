@@ -1,7 +1,7 @@
 <template>
     <div>
         <TheHeader />
-        <h1>hello welcom to Home page</h1>
+        <h1>Home page</h1>
         <h2 class="name"><b>{{ name }}</b></h2>
         <table>
             <tr>
