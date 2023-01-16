@@ -63,7 +63,7 @@ export default {
 <style>
 .name {
     font-size: 50px;
-    color: purple;
+    color: red;
 }
 
 table,
