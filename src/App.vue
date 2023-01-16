@@ -47,19 +47,6 @@ form , .add{
   width: 30%;
   margin: 0 auto;
 }
-
-.action-btn button ,.add button {
-  background: orange;
-  color: white;
-  border: 2px solid rgb(82, 82, 82);
-  padding: 5px 20px;
-  border-radius: 5px;
-  font-size: 20px;
-  font-weight: 600;
-  width: 100%;
-  cursor: pointer;
-}
-
 .logo img {
   height: 300px;
 }
