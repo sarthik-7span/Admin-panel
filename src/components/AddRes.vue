@@ -8,7 +8,7 @@
             <input type="text" placeholder="Enter Address" v-model="restaurant.address">
             <input type="text" placeholder="Enter Contact" v-model="restaurant.contact">
             <h1>{{ restaurant.name }}</h1>
-            <button @click.prevent="addres">Add Restaurant</button>
+            <button @click.prevent="addres">Add    Restaurant</button>
         </form>
     </div>
 </template>
